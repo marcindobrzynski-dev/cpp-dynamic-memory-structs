@@ -1,0 +1,21 @@
+# Build output
+x64/
+Debug/
+Release/
+
+# Visual Studio local/cache files
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+
+# Build intermediates
+oop-c-pl.8981f976/
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.exe

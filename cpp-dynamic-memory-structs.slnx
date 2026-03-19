@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp-dynamic-memory-structs.vcxproj" Id="8981f976-3f46-4cdf-bb49-5405dd8b8511" />
+</Solution>
